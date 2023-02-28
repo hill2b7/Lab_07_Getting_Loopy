@@ -37,6 +37,7 @@ public class Main {
             }
             System.out.println("");
         }
+
         final int NEWCOL = 5;
         final int NEWROW = 5;
         for (int col = 1; col <= NEWCOL; col = col + 1)
